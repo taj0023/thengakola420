@@ -2,8 +2,8 @@
 title: Taj0023
 email: thengakola420@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "https://thengakola420.tk" # the subpath of your site, e.g. /blog/
+url: "https://thengakola420.tk" # the base hostname & protocol for your site
 
 twitter_username: taj0023
 github_username: taj0023
